@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>TEXTRONIC</Machine>
+    <WindowsUser>shadow44g4</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>com.mozevent</PackageIdentityName>
+    <IntermediateOutputPath>D:\dev\mozevent\mozevent\platforms\windows\build\windows\bld\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>B31B138D5FD34C703CBB57B15BBE62D5D50D907CB1C60D510688985509E7B8E6</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>com.mozevent_0.0.1.0_neutral__h35559jr9hy9m</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>com.mozevent_h35559jr9hy9m!com.mozevent</RegisteredUserModeAppID>
+    <RegisteredPackageID>com.mozevent</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Apache Cordova Team</RegisteredPackagePublisher>
+    <RegisteredVersion>0.0.1.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\dev\mozevent\mozevent\platforms\windows\build\windows\Debug\AnyCPU\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-18T18:24:30.244</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\dev\mozevent\mozevent\platforms\windows\images\SplashScreen.scale-100.png">
+      <PackagePath>images\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-18T17:44:16.339</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\dev\mozevent\mozevent\platforms\windows\images\Square150x150Logo.scale-100.png">
+      <PackagePath>images\Square150x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-18T17:44:16.341</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\dev\mozevent\mozevent\platforms\windows\images\Square30x30Logo.scale-100.png">
+      <PackagePath>images\Square30x30Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-18T17:44:16.343</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\dev\mozevent\mozevent\platforms\windows\images\Square310x310Logo.scale-100.png">
+      <PackagePath>images\Square310x310Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-18T17:44:16.345</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\dev\mozevent\mozevent\platforms\windows\images\Square44x44Logo.scale-100.png">
+      <PackagePath>images\Square44x44Logo.scale-100.png</PackagePath>
+      <Modified>2015-09-18T17:44:16.346</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\dev\mozevent\mozevent\platforms\windows\images\Square70x70Logo.scale-100.png">
+      <PackagePath>images\Square70x70Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-18T17:44:16.348</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\dev\mozevent\mozevent\platforms\windows\images\Square71x71Logo.scale-100.png">
+      <PackagePath>images\Square71x71Logo.scale-100.png</PackagePath>
+      <Modified>2015-09-18T17:44:16.350</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\dev\mozevent\mozevent\platforms\windows\images\StoreLogo.scale-100.png">
+      <PackagePath>images\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-18T17:44:16.352</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\dev\mozevent\mozevent\platforms\windows\images\Wide310x150Logo.scale-100.png">
+      <PackagePath>images\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-18T17:44:16.355</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\dev\mozevent\mozevent\platforms\windows\www\img\logo.png">
+      <PackagePath>www\img\logo.png</PackagePath>
+      <Modified>2015-09-18T18:24:25.450</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\dev\mozevent\mozevent\platforms\windows\www\cordova.js">
+      <PackagePath>www\cordova.js</PackagePath>
+      <Modified>2015-09-18T18:24:25.526</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\dev\mozevent\mozevent\platforms\windows\www\cordova_plugins.js">
+      <PackagePath>www\cordova_plugins.js</PackagePath>
+      <Modified>2015-09-18T18:24:25.782</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\dev\mozevent\mozevent\platforms\windows\www\js\index.js">
+      <PackagePath>www\js\index.js</PackagePath>
+      <Modified>2015-09-18T18:24:25.785</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\dev\mozevent\mozevent\platforms\windows\www\WinJS\js\base.js">
+      <PackagePath>www\WinJS\js\base.js</PackagePath>
+      <Modified>2015-09-18T18:24:25.591</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\dev\mozevent\mozevent\platforms\windows\www\css\index.css">
+      <PackagePath>www\css\index.css</PackagePath>
+      <Modified>2015-09-18T18:24:25.783</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\dev\mozevent\mozevent\platforms\windows\www\index.html">
+      <PackagePath>www\index.html</PackagePath>
+      <Modified>2015-09-18T18:24:25.784</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\dev\mozevent\mozevent\platforms\windows\config.xml">
+      <PackagePath>config.xml</PackagePath>
+      <Modified>2015-09-18T18:24:25.617</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\dev\mozevent\mozevent\platforms\windows\build\windows\Debug\AnyCPU\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-09-18T18:32:31.374</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\">
+      <Name>Microsoft.WinJS.2.0</Name>
+      <Version>1.0.9600.17018</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.2.0, MinVersion=1.0.9600.17018</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\Microsoft.WinJS.2.0.appx</AppxLocation>
+      <MoreInfo>http://go.microsoft.com/fwlink/%3fLinkId=260891</MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

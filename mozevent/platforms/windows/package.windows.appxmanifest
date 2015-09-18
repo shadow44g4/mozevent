@@ -3,7 +3,7 @@
     <Identity Name="com.mozevent" Publisher="CN=$username$" Version="0.0.1.0" />
     <Properties>
         <DisplayName>Mozevent</DisplayName>
-        <PublisherDisplayName>Apache Cordova Team</PublisherDisplayName>
+        <PublisherDisplayName>iStain Comunicacao</PublisherDisplayName>
         <Logo>images\StoreLogo.png</Logo>
     </Properties>
     <Prerequisites>

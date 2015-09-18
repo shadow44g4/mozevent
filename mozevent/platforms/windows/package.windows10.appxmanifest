@@ -4,7 +4,7 @@
     <mp:PhoneIdentity PhoneProductId="e190e6d0-5e2c-11e5-84e1-73d1144b8291" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
     <Properties>
         <DisplayName>Mozevent</DisplayName>
-        <PublisherDisplayName>Apache Cordova Team</PublisherDisplayName>
+        <PublisherDisplayName>iStain Comunicacao</PublisherDisplayName>
         <Logo>images\StoreLogo.png</Logo>
     </Properties>
     <Dependencies>

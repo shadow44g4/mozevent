@@ -3,10 +3,10 @@
     <preference name="loglevel" value="DEBUG" />
     <name>Mozevent</name>
     <description>
-        A sample Apache Cordova application that responds to the deviceready event.
+        Event manager made by iStain Comunicacao
     </description>
-    <author email="dev@cordova.apache.org" href="http://cordova.io">
-        Apache Cordova Team
+    <author email="martin@istain.com.br" href="http://istain.com.br">
+        iStain Comunicacao
     </author>
     <content src="index.html" />
     <access origin="*" />
