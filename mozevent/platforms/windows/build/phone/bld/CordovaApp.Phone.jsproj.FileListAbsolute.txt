@@ -1,4 +1,3 @@
-D:\dev\mozevent\mozevent\platforms\windows\build\phone\debug\anycpu\resources.pri
 D:\dev\mozevent\mozevent\platforms\windows\build\phone\debug\anycpu\AppxManifest.xml
 D:\dev\mozevent\mozevent\platforms\windows\build\phone\debug\anycpu\CordovaApp.Phone.build.appxrecipe
 D:\dev\mozevent\mozevent\platforms\windows\build\phone\bld\priconfig.xml
@@ -13,5 +12,4 @@ D:\dev\mozevent\mozevent\platforms\windows\build\phone\bld\qualifiers.txt
 D:\dev\mozevent\mozevent\platforms\windows\build\phone\bld\qualifiers.txt.intermediate
 D:\dev\mozevent\mozevent\platforms\windows\build\phone\bld\MultipleQualifiersPerDimensionFound.txt
 D:\dev\mozevent\mozevent\platforms\windows\build\phone\bld\ProjectArchitectures.txt
-D:\dev\mozevent\mozevent\platforms\windows\build\phone\bld\package.map.txt
-D:\dev\mozevent\mozevent\platforms\windows\build\phone\bld\_pkginfo.txt
+D:\dev\mozevent\mozevent\platforms\windows\build\phone\Debug\AnyCPU\ReverseMap\resources.pri
