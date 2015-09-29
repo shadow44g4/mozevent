@@ -4,11 +4,9 @@
     <Machine>TEXTRONIC</Machine>
     <WindowsUser>shadow44g4</WindowsUser>
     <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
-    <TargetOsVersion>6.3</TargetOsVersion>
-    <TargetOsDescription>Windows Phone 8.1</TargetOsDescription>
     <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
     <PackageArchitecture>neutral</PackageArchitecture>
-    <PackageIdentityName>e190e6d0-5e2c-11e5-84e1-73d1144b8291</PackageIdentityName>
+    <PackageIdentityName>c6e0bdc0-6637-11e5-8f55-b76a103ab53a</PackageIdentityName>
     <IntermediateOutputPath>D:\dev\mozevent\mozevent\platforms\windows\build\phone\bld\</IntermediateOutputPath>
   </PropertyGroup>
   <ItemGroup>
@@ -74,8 +72,23 @@
       <PackagePath>images\Wide310x150Logo.scale-240.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\dev\mozevent\mozevent\platforms\windows\www\img\2000px-Senac_logo.svg.png">
+      <PackagePath>www\img\2000px-Senac_logo.svg.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\dev\mozevent\mozevent\platforms\windows\www\img\background.png">
+      <PackagePath>www\img\background.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\dev\mozevent\mozevent\platforms\windows\www\img\campus-party-brasil-2014-logo.png">
+      <PackagePath>www\img\campus-party-brasil-2014-logo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\dev\mozevent\mozevent\platforms\windows\www\img\fisl.png">
+      <PackagePath>www\img\fisl.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="D:\dev\mozevent\mozevent\platforms\windows\www\img\ionic.png">
       <PackagePath>www\img\ionic.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\dev\mozevent\mozevent\platforms\windows\www\img\logo.png">
+      <PackagePath>www\img\logo.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\dev\mozevent\mozevent\platforms\windows\www\old\img\logo.png">
       <PackagePath>www\old\img\logo.png</PackagePath>
@@ -91,6 +104,9 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\dev\mozevent\mozevent\platforms\windows\www\js\controllers.js">
       <PackagePath>www\js\controllers.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\dev\mozevent\mozevent\platforms\windows\www\js\index.js">
+      <PackagePath>www\js\index.js</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\dev\mozevent\mozevent\platforms\windows\www\lib\ionic\js\angular-ui\angular-ui-router.js">
       <PackagePath>www\lib\ionic\js\angular-ui\angular-ui-router.js</PackagePath>
@@ -146,6 +162,9 @@
     <AppxPackagedFile Include="D:\dev\mozevent\mozevent\platforms\windows\www\WinJS\js\base.js">
       <PackagePath>www\WinJS\js\base.js</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\dev\mozevent\mozevent\platforms\windows\www\css\index.css">
+      <PackagePath>www\css\index.css</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="D:\dev\mozevent\mozevent\platforms\windows\www\css\style.css">
       <PackagePath>www\css\style.css</PackagePath>
     </AppxPackagedFile>
@@ -158,14 +177,26 @@
     <AppxPackagedFile Include="D:\dev\mozevent\mozevent\platforms\windows\www\old\css\index.css">
       <PackagePath>www\old\css\index.css</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\dev\mozevent\mozevent\platforms\windows\www\img\logo_politec.jpg">
+      <PackagePath>www\img\logo_politec.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\dev\mozevent\mozevent\platforms\windows\www\img\winston.jpg">
+      <PackagePath>www\img\winston.jpg</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="D:\dev\mozevent\mozevent\platforms\windows\www\index.html">
       <PackagePath>www\index.html</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\dev\mozevent\mozevent\platforms\windows\www\old\index.html">
       <PackagePath>www\old\index.html</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\dev\mozevent\mozevent\platforms\windows\www\templates\browse.html">
-      <PackagePath>www\templates\browse.html</PackagePath>
+    <AppxPackagedFile Include="D:\dev\mozevent\mozevent\platforms\windows\www\templates\calendario.html">
+      <PackagePath>www\templates\calendario.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\dev\mozevent\mozevent\platforms\windows\www\templates\conta.html">
+      <PackagePath>www\templates\conta.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\dev\mozevent\mozevent\platforms\windows\www\templates\inicio.html">
+      <PackagePath>www\templates\inicio.html</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\dev\mozevent\mozevent\platforms\windows\www\templates\login.html">
       <PackagePath>www\templates\login.html</PackagePath>
@@ -178,9 +209,6 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\dev\mozevent\mozevent\platforms\windows\www\templates\playlists.html">
       <PackagePath>www\templates\playlists.html</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\dev\mozevent\mozevent\platforms\windows\www\templates\search.html">
-      <PackagePath>www\templates\search.html</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\dev\mozevent\mozevent\platforms\windows\www\lib\ionic\fonts\ionicons.eot">
       <PackagePath>www\lib\ionic\fonts\ionicons.eot</PackagePath>

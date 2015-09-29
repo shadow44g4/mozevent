@@ -2586,7 +2586,8 @@ body.grade-b, body.grade-c {
   padding-top: 1px;
   margin-bottom: -1px;
   width: auto;
-  height: auto; }
+  height: auto; 
+    background: url('../img/background.png')}
 
 .menu .scroll-content.scroll-content-false {
   z-index: 11; }
@@ -6089,6 +6090,10 @@ input[type="radio"][disabled], input[type="checkbox"][disabled], input[type="rad
 .toggle.toggle-assertive input:checked + .track {
   border-color: #ef473a;
   background-color: #ef473a; }
+<!--Cor Laranja -->
+.toggle.toggle-laranjinha input:checked + .track {
+  border-color: #e67e22;
+  background-color: #e67e22;}
 .toggle.toggle-balanced input:checked + .track {
   border-color: #33cd5f;
   background-color: #33cd5f; }
@@ -6214,9 +6219,11 @@ input[type="radio"][disabled], input[type="checkbox"][disabled], input[type="rad
   background-color: rgba(239, 71, 58, 0.5); }
 .toggle-small .toggle-assertive input:checked + .track .handle {
   background-color: #ef473a; }
+.toggle-small .toggle-laranjinha input:checked + .track .handle {
+  background-color: #e67e22; }
 .toggle-small .toggle-balanced input:checked + .track {
   background-color: rgba(51, 205, 95, 0.5); }
-.toggle-small .toggle-balanced input:checked + .track .handle {
+.toggle-small .toggle-balanc    ed input:checked + .track .handle {
   background-color: #33cd5f; }
 .toggle-small .toggle-energized input:checked + .track {
   background-color: rgba(255, 201, 0, 0.5); }
@@ -6787,6 +6794,10 @@ progress {
     border-color: #6b46e5;
     background-color: #886aea;
     color: #fff; }
+    .button.button-laranjinha {
+    border-color: #FF9800;
+    background-color: #FF9800;
+    color: #fff;}
     .button.button-royal:hover {
       color: #fff;
       text-decoration: none; }
@@ -7496,6 +7507,8 @@ a.button {
 
 .dark-border {
   border-color: #111; }
+.laranjinha, a.laranjinha {
+  color: #e67e22; }
 
 [collection-repeat] {
   /* Position is set by transforms */

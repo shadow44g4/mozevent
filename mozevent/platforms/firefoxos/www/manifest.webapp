@@ -4,11 +4,11 @@
         "*"
     ],
     "version": "0.0.1",
-    "name": "Mozevent",
-    "description": "Event manager made by iStain Comunicacao",
+    "name": "mozevent",
+    "description": "A sample Apache Cordova application that responds to the deviceready event.",
     "developer": {
-        "name": "iStain Comunicacao",
-        "url": "http://istain.com.br"
+        "name": "Apache Cordova Team",
+        "url": "http://cordova.io"
     },
     "icons": {}
 }

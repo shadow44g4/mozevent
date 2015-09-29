@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.mozevent" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Mozevent</name>
+    <description>
+        Event manager made by iStain Comunicacao
+    </description>
+    <author email="martin@istain.com.br" href="http://istain.com.br">
+        iStain Comunicacao
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+</widget>

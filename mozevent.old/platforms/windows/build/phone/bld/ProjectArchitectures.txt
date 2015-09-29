@@ -1,0 +1,1 @@
+D:\dev\mozevent\mozevent\platforms\windows\CordovaApp.Phone.jsproj;neutral
