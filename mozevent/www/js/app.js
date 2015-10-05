@@ -40,12 +40,28 @@ angular.module('starter', ['ionic', 'starter.controllers'])
       }
     }
   })
+  .state('app.passport', {
+    url: '/passport',
+    views: {
+      'menuContent': {
+        templateUrl: 'templates/passport.html'
+      }
+    }
+  })
   
   .state('app.calendario', {
     url: '/calendario',
     views: {
       'menuContent': {
         templateUrl: 'templates/calendario.html'
+      }
+    }
+  })
+  .state('app.criar_evento', {
+    url: '/criar_evento',
+    views: {
+      'menuContent': {
+        templateUrl: 'templates/criar_evento.html'
       }
     }
   })
@@ -77,7 +93,14 @@ angular.module('starter', ['ionic', 'starter.controllers'])
       }
     }
   })
-    
+    .state('app.tutorial', {
+      url: '/tutorial',
+      views: {
+        'menuContent': {
+          templateUrl: 'templates/tutorial_teste.html'
+        }
+      }
+    })
     .state('app.login', {
       url: '/login',
       views: {
