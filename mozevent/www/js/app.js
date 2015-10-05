@@ -49,16 +49,6 @@ angular.module('starter', ['ionic', 'starter.controllers'])
       }
     }
   })
-  
-  .state('app.criar_evento', {
-    url: '/criar_evento',
-    views: {
-      'menuContent': {
-        templateUrl: 'templates/criar_evento.html'
-      }
-    }
-  })
-
 
   .state('app.inicio', {
       url: '/inicio',

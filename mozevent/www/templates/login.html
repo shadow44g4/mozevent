@@ -1,8 +1,11 @@
 <ion-modal-view>
-  <ion-content background-image="img/background.png">
-      <img src="img/logo.png" width="300px" height="250px" style="padding-left:70px;">
-    <form ng-submit="doLogin()">
-      <div class="list">
+  <ion-content style="background:url(img/background.png) center right no-repeat">
+      
+      <img src="img/logo.png" width="300px" height="230px" style="padding-left:65px; padding-top:20px;">
+      <br><br><br>
+      
+    <form  ng-submit="doLogin()">
+      <div style="padding-top:40px;" class="list">
         <label class="item item-input">
           <span class="input-label">Usuario</span>
           <input type="text" ng-model="loginData.username">
@@ -15,7 +18,7 @@
         <label class="item">
             <p>Esqueci a senha</p>
           <button class="button button-full button-laranjinha" type="submit">Entrar</button>
-            <p>Não tem uma conta? Registrar</p>
+            <p style="padding-top:70px; padding-left:60px;">Não tem uma conta? Registrar</p>
         </label>
       </div>
     </form>

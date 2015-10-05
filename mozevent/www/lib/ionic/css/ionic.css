@@ -5642,7 +5642,8 @@ a.item-content {
  * --------------------------------------------------
  */
 form {
-  margin: 0 0 1.42857; }
+  margin: 0 0 1.42857; 
+  }
 
 legend {
   display: block;
@@ -5779,7 +5780,7 @@ input, button, select, textarea {
   padding: 7px 10px 7px 0px;
   max-width: 200px;
   width: 35%;
-  color: #444;
+  color: #fff;
   font-size: 16px; }
 
 .placeholder-icon {
