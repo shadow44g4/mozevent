@@ -39,20 +39,18 @@ angular.module('starter.controllers', [])
       $scope.closeLogin();
     }, 1000);
   }
-  //Tutorial
-  $ionicModal.fromTemplateUrl('templates/login.html', {
-    scope: $scope
-  }).then(function(modal) {
-    $scope.modal = modal;
-  });
+  //Google maps
+  
+  //login
+  //.controller('MainController', ['$scope', '$location',
+  //function($scope, $location) {
+    //console.log('Changing controller!');
     
-  $scope.doTutorial = function() {
-    console.log('Tutorial', $scope.loginData);
+    //$scope.main = {};
+    //$scope.main.dragContent = false;
 
-    // Simulate a login delay. Remove this and replace with your login
-    // code if using a login system
-    $timeout(function() {
-      $scope.closeLogin();
-    }, 1000);
-  };
+    //console.log('MainController');
+  //}
+//])
+                            
 })
